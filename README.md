@@ -2,7 +2,9 @@
 
 This repository will contain the code for the paper:
 
-**"Neural Combinatorial Optimization for  Multiobjective Task Offloading in Mobile Edge  Computing"**  
+**"Neural Combinatorial Optimization for  Multiobjective Task Offloading in Mobile Edge Computing"**  
 Authors: **Xiang-Jie Xiao**, Yong Wang, Pei-Qiu Huang, Kezhi Wang
 
-The code and data will be available soon. Stay tuned!
+https://ieeexplore.ieee.org/abstract/document/10908871
+
+Code and Dataset will be available soon. Stay tuned!
